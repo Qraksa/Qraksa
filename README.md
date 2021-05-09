@@ -1,8 +1,10 @@
-### Hi 
+### Hi    :shipit:
 
-:shipit:
+
+:black_circle::black_circle::black_circle::black_circle:
 
 About me:
+
 
    :sparkler: Creative
 
@@ -15,7 +17,11 @@ About me:
    :briefcase: Responsible
 
 
+
+:black_circle::black_circle::black_circle::black_circle:
+
 Skills:
+
 
    :movie_camera: Unity Engine 
 
@@ -35,8 +41,12 @@ Skills:
 
    :electric_plug: Automatic
 
+
+
+:black_circle::black_circle::black_circle::black_circle:
    
 Intrests:
+
 
    :video_game: Games
 
