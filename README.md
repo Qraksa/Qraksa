@@ -20,12 +20,9 @@ About me:
 
 :black_circle::black_circle::black_circle::black_circle:
 
-Skills:
+Skills: 
 
-
-   :movie_camera: Unity Engine 
-
-   :computer: C#
+   :computer: C#, Python, Kotlin
 
    :fireworks: Affinity Designer
 
@@ -39,7 +36,6 @@ Skills:
 
    :car: Driver
 
-   :electric_plug: Automatic
 
 
 
